@@ -8,6 +8,12 @@
 
 #### Mundo 1: Fundamentos
 
-- [x] 001 - 004
-- [x] 005 - 010
-- [x] 011 - 015
+- [x] Exercícios, Aula 01 ~ Aula 06: 001 - 004
+- [x] Exercícios, Aula 07: 005 - 015
+- [x] Exercícios, Aula 08: 016 - 021
+- [x] Exercícios, Aula 09: 022 - 027
+- [x] Exercícios, Aula 10: 028 - 035
+
+#### Mundo 2: Estruturas de Controle
+
+- [x] Exercícios, Aula 12: 036 - 
