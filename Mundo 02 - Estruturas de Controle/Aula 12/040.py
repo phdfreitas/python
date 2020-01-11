@@ -2,7 +2,7 @@
 # Created by Pedro Freitas on 09/01/2020.
 #
 
-n1 = float(input('Nota 1: '))
+n1 = float(input('\033[1;33mNota 1: '))
 n2 = float(input('Nota 2: '))
 
 media = (n1 + n2) / 2

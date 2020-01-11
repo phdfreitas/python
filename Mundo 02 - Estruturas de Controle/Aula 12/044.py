@@ -2,7 +2,7 @@
 # Created by Pedro Freitas on 10/01/2020.
 #
 
-produto = float(input('Digite o preço do produto: '))
+produto = float(input('\033[1;33mDigite o preço do produto: '))
 
 pagamento = str(input("""Qual a forma de pagamento? 
 	\n1. À Vista Dinheiro/Cheque

@@ -2,7 +2,7 @@
 # Created by Pedro Freitas on 09/01/2020.
 #
 
-n1 = int(input('Digite o primeiro número: '))
+n1 = int(input('\033[1;33mDigite o primeiro número: '))
 n2 = int(input('Digite o segundo número: '))
 
 if n1 > n2:

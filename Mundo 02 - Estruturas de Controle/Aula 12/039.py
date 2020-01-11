@@ -6,13 +6,16 @@ from datetime import date
 
 anoAtual = date.today().year
 
-anoNasc = int(input('Digite o ano em que você nasceu: '))
+anoNasc = int(input('\033[1;33mDigite o ano em que você nasceu: '))
+
+idade = anoAtual - anoNasc
+total = abs((anoAtual - anoNasc) - 18)
+
+print('Atualmente você tem {} anos, logo:'.format(idade))
 
 if anoAtual - anoNasc == 18:
 	print('Você deve se alistar esse ano.')
 elif anoAtual - anoNasc > 18:
-	rest = (anoAtual - anoNasc) - 18
-	print('Já passou da hora do seu alistamento. Se você não se alistou, deveria ter feito isso há {} ano(s).'.format(rest))
+	print('Já passou da hora do seu alistamento. Se você não se alistou, deveria ter feito isso há {} ano(s).'.format(total))
 else:
-	rest = 18 - (anoAtual - anoNasc)
-	print('Ainda não é o momento do seu alistamento. Você deve se alistar em {} ano(s).'.format(rest))
+	print('Ainda não é o momento do seu alistamento. Você deve se alistar em {} ano(s).'.format(total))

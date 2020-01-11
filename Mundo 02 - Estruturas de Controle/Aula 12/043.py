@@ -2,7 +2,7 @@
 # Created by Pedro Freitas on 09/01/2020.
 #
 
-peso = float(input('Digite seu peso em Kg: '))
+peso = float(input('\033[1;33mDigite seu peso em Kg: '))
 altura = float(input('Digite sua altura em metros: '))
 
 imc = peso / (altura**2)

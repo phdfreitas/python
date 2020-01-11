@@ -2,7 +2,7 @@
 # Created by Pedro Freitas on 09/01/2020.
 #
 
-valor = float(input('Qual o valor da casa? '))
+valor = float(input('Qual o valor da casa? R$ '))
 salario = float(input('Quanto você ganha por mês? R$ '))
 anos = int(input('Em quantos anos você pretende pagar? ')) * 12
 
