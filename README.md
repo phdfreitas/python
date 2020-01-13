@@ -17,3 +17,5 @@
 #### Mundo 2: Estruturas de Controle
 
 - [x] Exercícios, Aula 12: **036 - 045**
+- [x] Exercícios, Aula 13: **046 - 056**
+- [x] Exercícios, Aula 14: **057 - 065**
