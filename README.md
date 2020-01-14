@@ -23,3 +23,4 @@
 
 #### Mundo 3: Estruturas Compostas
 
+- [x] Exercícios, Aula 14: **072 - 077**
