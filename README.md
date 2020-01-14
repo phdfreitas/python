@@ -2,7 +2,7 @@
 
 ## Soluções dos problemas propostos no curso de Python 3 do Curso em Vídeo
 
-> Now is better than never. Although never is often better than right now.
+> Se a implementação é difícil de explicar, é uma má ideia. 
 
 ### Problemas resolvidos: 
 
@@ -19,3 +19,7 @@
 - [x] Exercícios, Aula 12: **036 - 045**
 - [x] Exercícios, Aula 13: **046 - 056**
 - [x] Exercícios, Aula 14: **057 - 065**
+- [x] Exercícios, Aula 14: **066 - 071**
+
+#### Mundo 3: Estruturas Compostas
+
