@@ -7,7 +7,6 @@ n = int(input('\033[1;37mDigite um número inteiro: '))
 contador = first = 0
 aux = fib = 1 
 
-
 print(first, end=' ')
 
 while contador < n:

@@ -5,8 +5,6 @@
 stop = True
 media = maior = menor = total = 0
 
-
-
 while stop:
 	n = float(input('\033[1;37mDigite um número: '))
 
