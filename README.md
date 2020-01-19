@@ -19,8 +19,12 @@
 - [x] Exercícios, Aula 12: **036 - 045**
 - [x] Exercícios, Aula 13: **046 - 056**
 - [x] Exercícios, Aula 14: **057 - 065**
-- [x] Exercícios, Aula 14: **066 - 071**
+- [x] Exercícios, Aula 15: **066 - 071**
 
 #### Mundo 3: Estruturas Compostas
 
-- [x] Exercícios, Aula 14: **072 - 077**
+- [x] Exercícios, Aula 16: **072 - 077**
+- [x] Exercícios, Aula 17: **078 - 089**
+*A **Aula 18** é a parte 2 da **Aula 17** por esse motivo os exercícios dessa aula estão na pasta da **Aula 17***
+- [x] Exercícios, Aula 19: **090 - 095**
+- [x] Exercícios, Aula 20: **096 - 100**
