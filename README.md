@@ -25,6 +25,6 @@
 
 - [x] Exercícios, Aula 16: **072 - 077**
 - [x] Exercícios, Aula 17: **078 - 089**
-*A **Aula 18** é a parte 2 da **Aula 17** por esse motivo os exercícios dessa aula estão na pasta da **Aula 17***
+> *A **Aula 18** é a parte 2 da **Aula 17** por esse motivo os exercícios dessa aula estão na pasta da **Aula 17***
 - [x] Exercícios, Aula 19: **090 - 095**
 - [x] Exercícios, Aula 20: **096 - 100**
